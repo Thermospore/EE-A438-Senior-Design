@@ -1,0 +1,26 @@
+2023-01-20 - initial senior design meeting
+	pick group / project
+	contact FAA
+	
+2023-01-26 - initial meeting with FAA
+	discuss project
+	set up FAA facility tour
+	
+2023-02-03 - FAA facility tour
+	visit testing lab for demonstration / explanation of project goals
+	visit various control rooms
+	
+2023-02-10 - no meeting
+	looking into obtaining a copy of labview etc
+
+2023-02-17 - no meeting
+	everyone busy with DSP exam prep etc
+	continuing investigation into labview logistics
+	obtain test procedure docs from FAA
+
+2023-02-24 - meet at EIB
+	review all documents
+	start a github repo
+	talk with IT and get a copy of labview installed in the power lab
+	mess around with labview and watch some tutorials
+	general planning / timeframe
