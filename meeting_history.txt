@@ -24,3 +24,9 @@
 	talk with IT and get a copy of labview installed in the power lab
 	mess around with labview and watch some tutorials
 	general planning / timeframe
+	
+2023-03-03 - meet at EIB
+	more labview practice/examples/tutorials
+	tried interfacing with equipment we had access to in the lab
+	install and learn about interface driver for keysight
+	general planning / timeframe
