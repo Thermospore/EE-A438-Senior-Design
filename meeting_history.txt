@@ -30,3 +30,9 @@
 	tried interfacing with equipment we had access to in the lab
 	install and learn about interface driver for keysight
 	general planning / timeframe
+	
+2023-03-10 - no meeting
+	(Tyler out of town)
+
+2023-03-18 - Tyler at EIB
+	(spring break)
