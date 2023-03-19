@@ -33,6 +33,12 @@
 	
 2023-03-10 - no meeting
 	(Tyler out of town)
+	coordinate meetup with FAA + keysight
 
 2023-03-18 - Tyler at EIB
 	(spring break)
+	more labview practice/examples/tutorials
+	look at example .vi from FAA
+	learn how VISA works and test with equipment in the lab
+	look over keysight driver capabilities
+	test out file i/o
