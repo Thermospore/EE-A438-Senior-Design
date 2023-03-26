@@ -32,13 +32,18 @@
 	general planning / timeframe
 	
 2023-03-10 - no meeting
-	(Tyler out of town)
+	(Wandal out of town)
 	coordinate meetup with FAA + keysight
 
-2023-03-18 - Tyler at EIB
+2023-03-18 - Wandal at EIB
 	(spring break)
 	more labview practice/examples/tutorials
 	look at example .vi from FAA
 	learn how VISA works and test with equipment in the lab
 	look over keysight driver capabilities
 	test out file i/o
+
+2023-03-24 - meet at EIB
+	more labview practice/examples/tutorials
+	design / mock up the UI / program flow
+	work on midterm report - Jackson
