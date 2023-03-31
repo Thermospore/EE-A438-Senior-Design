@@ -47,3 +47,7 @@
 	more labview practice/examples/tutorials
 	design / mock up the UI / program flow
 	work on midterm report - Jackson
+	
+2023-03-30 - meet at EIB
+	prepare for FAA bringing the keysight tomorrow
+	add csv read capability
