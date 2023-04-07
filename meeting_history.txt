@@ -52,3 +52,9 @@
 	prepare for FAA bringing the keysight tomorrow
 	add csv read capability
 	write up initial steps text
+
+2023-03-31 - meet at EIB
+	FAA (Eugene + Rolan) brought the keysight
+	show FAA progress so far, ask questions, clarify scope, etc
+	successfully interface with the keysight
+	finish midterm report - Jackson
