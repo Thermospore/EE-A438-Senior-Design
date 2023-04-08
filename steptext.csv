@@ -1,0 +1,40 @@
+#,Text,Section
+1,Disconnect the RF Cable from the BUC/SSPA J2 RF Out Port to drop the RF carrier at the VSAT site,Initial Config / Calibration
+2,Note: The RF transmit will remain disconnected for all following sections that test cable performance to ensure the testing is done in isolation,Initial Config / Calibration
+3,We will now configure the Keysight N9342C Spectrum Analyzer for the cable test [press Next],Initial Config / Calibration
+4,Navigate to: Mode → Cable & Antenna test → Distance To Fault,Initial Config / Calibration
+5,Configure the following parameters [press Next],Initial Config / Calibration
+6,・Start Distance: 0 ft,Initial Config / Calibration
+7,・Stop Distance: Use approximate length of cable,Initial Config / Calibration
+8,・IIM: On,Initial Config / Calibration
+9,・Cable Atten (More → Cable Specifications): 0.06 dB/ft for TX test,Initial Config / Calibration
+10,・Vel Factor (More → Cable Specifications): 88%,Initial Config / Calibration
+11,"Note: The attenuation and velocity factor values used to test the transmit cables are the nominal values for LDF4-50 at 6175 MHz, which is the middle of the C-Band transmit frequency range",Initial Config / Calibration
+12,Navigate to Freq (Frequency) and configure the following parameters [press Next],Initial Config / Calibration
+13,・Start Freq: 5925 MHz (Tx Test),Initial Config / Calibration
+14,・Stop Freq: 6425 MHZ (Tx Test),Initial Config / Calibration
+15,・Cal Type: Selected,Initial Config / Calibration
+16,Attach a RF jumper Test to the spectrum analyzer RF Output port,Initial Config / Calibration
+17,Press the Calibrate button and follow the on-screen instructions for terminating the far end of the cable. IMPORTANT: Include the RF Test Cable during calibration but NOT the cable under test. Note that the on-screen instruction does not show the test cable. Include it.,Initial Config / Calibration
+18,We will now measure the peak VSWR and Frequency of the cabling between the BUC/SSPA and antenna with a 50 Ohm termination load [press Next],Tx 50 Ohm Peak VSWR Frequency
+19,Connect the 50 Ohm load to terminate the end of the cable under test,Tx 50 Ohm Peak VSWR Frequency
+20,Note: Use the load connection on the Open-Short-Load tee for the 50 Ohm load,Tx 50 Ohm Peak VSWR Frequency
+21,Configure the N9342C as follows [press Next],Tx 50 Ohm Peak VSWR Frequency
+22,・Navigate to: Mode → Cable & Antenna Test → Reflection Measurement,Tx 50 Ohm Peak VSWR Frequency
+23,・Set IIM to On,Tx 50 Ohm Peak VSWR Frequency
+24,・Set Disp mode to VSWR,Tx 50 Ohm Peak VSWR Frequency
+25,・Select Amptd → Auto Scale,Tx 50 Ohm Peak VSWR Frequency
+26,Write down the Peak Tx VSWR and Freq values,Tx 50 Ohm Peak VSWR Frequency
+27,Note: VSWR should be less than or equal to 1.5,Tx 50 Ohm Peak VSWR Frequency
+28,We will now determine distance to fault [press Next],Distance to Fault
+29,Disconnect 50 Ohm load so that end of cable is open,Distance to Fault
+30,Configure the Keysight N9342C as follows [press Next],Distance to Fault
+31,・Navigate to: Mode → Cable & Antenna Test → Distance To Fault,Distance to Fault
+32,・Set IIM to Off,Distance to Fault
+33,・Set Disp Mode to VSWR,Distance to Fault
+34,・Select Amptd → Auto Scale,Distance to Fault
+35,Select Marker → (F2) Normal,Distance to Fault
+36,Use the rotary dial to place the Marker 1 (M1) pointer on the peak VSWR,Distance to Fault
+37,Write down the M1 value displayed,Distance to Fault
+38,Disconnect the TX Cable from OSPA so that only one section is connected to Keysight N9342C,Distance to Fault
+39,Write down the M1 value displayed,Distance to Fault
