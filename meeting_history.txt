@@ -58,3 +58,8 @@
 	show FAA progress so far, ask questions, clarify scope, etc
 	successfully interface with the keysight
 	finish midterm report - Jackson
+
+2023-04-07 - meet at EIB
+	pick up keysight
+	experiment with / learn about keysight driver
+	get github desktop installed on lab computer
