@@ -63,3 +63,8 @@
 	pick up keysight
 	experiment with / learn about keysight driver
 	get github desktop installed on lab computer
+
+2023-04-08 - Wandal at EIB
+	explore keysight
+	look through keysight example vis
+	automate steps 1-10
