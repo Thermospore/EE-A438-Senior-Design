@@ -68,3 +68,5 @@
 	explore keysight
 	look through keysight example vis
 	automate steps 1-10
+	
+[from this point, sufficient history is covered by github commits / email records]
