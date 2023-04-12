@@ -9,7 +9,7 @@
 8,・IIM: On,Initial Config / Calibration
 9,・Cable Atten (More → Cable Specifications): 0.06 dB/ft for TX test,Initial Config / Calibration
 10,・Vel Factor (More → Cable Specifications): 88%,Initial Config / Calibration
-11,"Note: The attenuation and velocity factor values used to test the transmit cables are the nominal values for LDF4-50 at 6175 MHz, which is the middle of the C-Band transmit frequency range",Initial Config / Calibration
+11,Note: The attenuation and velocity factor values used to test the transmit cables are the nominal values for LDF4-50 at 6175 MHz. This is the middle of the C-Band transmit frequency range,Initial Config / Calibration
 12,Navigate to Freq (Frequency) and configure the following parameters [press Next],Initial Config / Calibration
 13,・Start Freq: 5925 MHz (Tx Test),Initial Config / Calibration
 14,・Stop Freq: 6425 MHZ (Tx Test),Initial Config / Calibration
