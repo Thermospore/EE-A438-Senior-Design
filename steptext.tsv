@@ -1,17 +1,17 @@
 #	"Text (NOTE TO EDITORS: all double quotes ("" "") are removed when the tsv is read)"	Section
-1	We will first perform initial configuration of the Keysight N9342C [press `Next step`]	Initial Configuration
+1	We will first perform initial configuration of the Keysight N9342C\n[press `Next step`]	Initial Configuration
 2	Power on the Keysight N9342C and connect it to the computer via USB	Initial Configuration
 3	"Once the Keysight N9342C is fully running (~30 sec), select its `VISA resource name` in the `Configuration` panel below\n(NOTE: it will be something like USB0::0x0957::0xFFEF::SG05295032::INSTR)"	Initial Configuration
 4	Select the relevant `Cable test` in the `Configuration` panel below	Initial Configuration
 5	"Enter the `Length of cable under test` in the `Configuration` panel below\n(NOTE: to ensure the end of the cable is reached, a length somewhat longer than the actual length should be used)"	Initial Configuration
-6	We will now perform calibration of the Keysight N9342C [press `Next step`]	Calibration
+6	We will now perform calibration of the Keysight N9342C\n[press `Next step`]	Calibration
 7	Attach a jumper cable to the RF Output port of the Keysight N9342C	Calibration
 8	"Follow the calibration instructions shown on the Keysight N9342C screen\n(NOTE: include the jumper cable during calibration, but not the cable under test)\nOnce you have left the calibration screen, press `Next step`"	Calibration
-9	We will now measure the peak VSWR of the cable under test with a 50 ohm termination load [press `Next step`]	VSWR Measurement
+9	We will now measure the peak VSWR of the cable under test with a 50 ohm termination load\n[press `Next step`]	VSWR Measurement
 10	Remove the Open-Short-Load tee from the jumper cable. Attach that end of the jumper cable to the cable under test	VSWR Measurement
 11	Terminate the opposite end of the cable under test with the 50 ohm load on the Open-Short-Load tee	VSWR Measurement
 12	"To execute the VSWR measurement, press `Next step`\n(NOTE: this might take a few seconds)"	VSWR Measurement
-13	We will now perform the distance to fault measurement [press `Next step`]	Distance to Fault Measurement
+13	We will now perform the distance to fault measurement\n[press `Next step`]	Distance to Fault Measurement
 14	"Remove the Open-Short-Load tee, so the end of the cable under test is open"	Distance to Fault Measurement
 15	"To execute the distance to fault measurement, press `Next step`\n(NOTE: this might take a few seconds)"	Distance to Fault Measurement
 16	The measurements are now complete. See `Results` panel below\n(NOTE: results are stored in `history_[measurement type].csv` in the root directory)\nPress `Next step` or `STOP` to end the program	Measurements Complete
