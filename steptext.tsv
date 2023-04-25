@@ -14,4 +14,4 @@
 13	We will now perform the distance to fault measurement\n[press `Next step`]	Distance to Fault Measurement
 14	"Remove the Open-Short-Load tee, so the end of the cable under test is open"	Distance to Fault Measurement
 15	"To execute the distance to fault measurement, press `Next step`\n(NOTE: this might take a few seconds)"	Distance to Fault Measurement
-16	The measurements are now complete. See `Results` panel below\n(NOTE: results are stored in `history_[measurement type].csv` in the root directory)\nPress `Next step` or `STOP` to end the program	Measurements Complete
+16	The measurements are now complete\n(NOTE: results are stored in `history_[measurement type].csv` in the root directory)\nPress `Next step` or `STOP` to end the program	Measurements Complete
